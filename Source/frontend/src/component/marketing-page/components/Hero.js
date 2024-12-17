@@ -123,8 +123,7 @@ export default function Hero() {
               fontSize: '1.2rem'
             }}
           >
-            Với sứ mệnh hỗ trợ các tổ chức từ thiện tổ chức và quản lý các chiến dịch, chúng tôi cung cấp công cụ để các chiến dịch được triển khai minh bạch và dễ dàng hơn.
-            Dù bạn là người đóng góp muốn hỗ trợ bằng bất cứ hình thức nào, hay là người cần nhận hỗ trợ, nền tảng này cho phép bạn theo dõi tình hình đóng góp và sự phát triển của từng chiến dịch. Từ những chiến dịch cộng đồng nhỏ đến những đợt quyên góp quy mô lớn, tất cả đều được chúng tôi tối ưu để tạo sự thuận tiện và minh bạch nhất.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pharetra nulla ultrices sapien consequat dignissim. Quisque ante elit, molestie id suscipit in, tristique et magna. Etiam faucibus sed dui non tempor. Ut et augue quam. Phasellus convallis dui erat, ac consectetur sem maximus non. Nunc erat nulla, pretium in laoreet ut, semper sed purus. Pellentesque a massa at nibh bibendum tincidunt sit amet non leo. Integer varius est quis risus cursus molestie eget non nulla. Proin aliquam efficitur velit id pulvinar. Vestibulum quis accumsan augue, quis lacinia lorem. Nunc fringilla eget neque in maximus. Praesent auctor est non diam consequat rhoncus. Duis vitae felis est.
           </Typography>
           <Typography
             sx={{
